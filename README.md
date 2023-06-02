@@ -4,6 +4,7 @@
 - 📫 How to reach me, email me at jseybert.dev@gmail.com
 
  #Click the blocks to follow the links 
+ 
 <a href="https://www.linkedin.com/in/jacob-seybert-151314159/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
